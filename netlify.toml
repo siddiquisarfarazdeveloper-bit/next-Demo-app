@@ -3,5 +3,5 @@
     publish = ".next"
     function = ".netlify/function"
 
-[[plugins]]
-    package = ".netlify/plugin-nextjs"
+[[plugin]]
+    package = "@netlify/plugin-nextjs"    
